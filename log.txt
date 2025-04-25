@@ -1,0 +1,11 @@
+instalei o k3s no servidor:
+https://docs.k3s.io/quick-start
+
+curl -sfL https://get.k3s.io | sh -
+
+https://medium.com/@josephsims1/getting-started-with-k3s-a-practical-guide-to-setup-and-scaling-86769e873ad5
+
+criei a landing page
+npm init -y
+npm install react react-dom
+npm install --save-dev vite
